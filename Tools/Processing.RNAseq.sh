@@ -14,6 +14,7 @@ ml STAR
 ml Java
 ml SAMtools
 ml sambamba
+ml Perl
 
 sample=$1
 echo "===================> $sample now is processing"
